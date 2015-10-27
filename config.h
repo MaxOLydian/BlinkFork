@@ -1,2 +1,2 @@
 //here's a generic configuration header
-//v1.1 NEW VERSION!
+//v1.2 NEWER VERSION!
